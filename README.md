@@ -9,7 +9,7 @@ Add ```cls``` and ```clear``` custom commands to both Windows and Linux so you d
 
 ### Step 1: Windows
 
-IMAGE GOES HERE
+![9ac91cc888102808c41bc50cf5c1a2c7032965e2](https://github.com/user-attachments/assets/31b0bda3-af9d-4fd8-ac19-5b25c903ebb8)
 
 This is the simpler one of the two.
 
