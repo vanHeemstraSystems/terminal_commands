@@ -21,7 +21,7 @@ Elevate yourself as admin and run ```echo cls > C:\Windows\Clear.bat```.
 
 ### Step 2: Linux
 
-IMAGE GOES HERE
+![2896815acc52642c91b15e780a3aed955db649c0](https://github.com/user-attachments/assets/0ec6c837-3e94-49ee-b5cc-2b67f70300a1)
 
 A little more time consuming, but simple none the less. After this, typing ```cls``` will clear your prompt.
 
