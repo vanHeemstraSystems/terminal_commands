@@ -17,7 +17,7 @@ Text editor: (notepad)<br/>
 Just open notepad, type in ```cls``` and save it as “C:\Windows\Clear.bat”. Now every time you’re in CMD and type ```clear```, you will clear your screen just like ```cls```.
 
 Command Prompt:<br/>
-Elevate yourslef as admin and run ```echo cls > C:\Windows\Clear.bat```.
+Elevate yourself as admin and run ```echo cls > C:\Windows\Clear.bat```.
 
 ### Step 2: Linux
 
